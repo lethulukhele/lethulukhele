@@ -55,9 +55,9 @@ Welcome to my portfolio! I'm a passionate full-stack developer with expertise in
 
 ## 📫 Let's Connect
 
-- **Email**: lethulukhele@example.com (update with your email)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com)
-- **Twitter/X**: [@yourhandle](https://twitter.com)
+- **Email**: lethucollette@gmail.com (update with your email)
+- **LinkedIn**: @lethulukhele(https://linkedin.com)
+
 
 ---
 
