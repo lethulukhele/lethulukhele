@@ -1,4 +1,4 @@
-# Hi, I'm Lethulukhele! 👋
+# Hi, I'm Lethu Lukhele! 👋
 
 Welcome to my portfolio! I'm a passionate full-stack developer with expertise in **Java**, **Python**, **React**, **SpringBoot**, and **PHP**. I love building scalable applications and solving complex problems through code.
 
