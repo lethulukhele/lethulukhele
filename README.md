@@ -1,28 +1,31 @@
 # Hi, I'm Lethu Lukhele! 👋
 
-Welcome to my portfolio! I'm a passionate full-stack developer with expertise in **Java**, **Python**, **React**, **SpringBoot**, and **PHP**. I love building scalable applications and solving complex problems through code.
+Welcome to my portfolio! I'm a passionate full-stack developer building scalable web applications with a strong focus on Java, Spring Boot, React, PHP, and modern database-driven systems. I enjoy turning ideas into reliable products that solve real-world problems.
 
 ## 🚀 Featured Projects
 
-### 1. **TaskFlow** - Project Management Web App
-*React + SpringBoot + PostgreSQL*
-- Real-time task management with team collaboration
+### 1. AnimeFlix SA - Anime Streaming Platform
+*Java + Spring Boot + PostgreSQL*
+- Free anime discovery and streaming platform
+- Modern catalog browsing with curated content
+- Backend built for scalable media management
+- User-friendly experience for discovering and watching anime
+- [Repository](https://github.com/lethulukhele/animeflix-sa)
+
+### 2. TaskFlow - Project Management Web App
+*React + Spring Boot + PostgreSQL*
+- Real-time task tracking and team collaboration
 - User authentication and role-based access control
-- RESTful API with JWT authentication
+- RESTful API with JWT-based security
+- Clean workflow management for productivity
 - [Repository](https://github.com/lethulukhele/taskflow)
 
-### 2. **DataInsight** - Data Analytics Pipeline
-*Python + Pandas + Matplotlib*
-- ETL pipeline for data processing and analysis
-- Interactive visualizations and reports
-- Real-world dataset analysis with insights
-- [Repository](https://github.com/lethulukhele/datainsight)
-
-### 3. **ContentHub** - Headless CMS
+### 3. ContentHub - Headless CMS
 *PHP + Laravel + MySQL*
 - Multi-user content management system
-- REST API for content delivery
-- Role-based permissions and workflows
+- REST API for structured content delivery
+- Role-based permissions and content workflows
+- Built for flexible digital publishing
 - [Repository](https://github.com/lethulukhele/contenthub)
 
 ---
@@ -31,11 +34,11 @@ Welcome to my portfolio! I'm a passionate full-stack developer with expertise in
 
 | Category | Technologies |
 |----------|---------------|
-| **Languages** | Java, Python, PHP, JavaScript |
+| **Languages** | Java, JavaScript, PHP, Python |
 | **Frontend** | React, HTML5, CSS3, Tailwind CSS |
-| **Backend** | SpringBoot, Laravel, Node.js |
+| **Backend** | Spring Boot, Laravel, Node.js |
 | **Databases** | PostgreSQL, MySQL, MongoDB |
-| **Tools & Platforms** | Git, Docker, REST APIs, AWS |
+| **Tools & Platforms** | Git, GitHub, Docker, REST APIs, AWS |
 
 ---
 
@@ -47,24 +50,24 @@ Welcome to my portfolio! I'm a passionate full-stack developer with expertise in
 
 ## 🎯 What I'm Currently Learning
 
-- Advanced Spring Cloud microservices
-- React Native for mobile development
-- AWS architecture and deployment
+- Advanced backend architecture and system design
+- React ecosystem best practices
+- Cloud deployment and scalable application patterns
 
 ---
 
 ## 📫 Let's Connect
 
-- **Email**: lethucollette@gmail.com (update with your email)
-- **LinkedIn**: @lethulukhele(https://linkedin.com)
-
-
----
-
-## 📝 Blog & Articles
-
-Coming soon! I'll be sharing insights on full-stack development, best practices, and project learnings.
+- **Email**: [lethucollette@gmail.com](mailto:lethucollette@gmail.com)
+- **GitHub**: [github.com/lethulukhele](https://github.com/lethulukhele)
+- **LinkedIn**: [linkedin.com/in/lethulukhele](https://linkedin.com/in/lethulukhele)
 
 ---
 
-*Last updated: June 2026*
+## 📝 About Me
+
+I enjoy building products that blend strong backend logic with clean user experiences. Whether it's a streaming platform, a CMS, or a productivity app, I focus on maintainability, performance, and user value.
+
+---
+
+*Last updated: October 2026*
