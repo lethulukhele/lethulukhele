@@ -1,6 +1,6 @@
 # Hi, I'm Lethu Lukhele! 👋
 
-Welcome to my portfolio! I'm a passionate full-stack developer building scalable web applications with a strong focus on Java, Spring Boot, React, PHP, and modern database-driven systems. I enjoy turning ideas into reliable products that solve real-world problems.
+Welcome to my portfolio! I'm a passionate full-stack developer building scalable web applications with a strong focus on Java, Spring Boot, React, PHP, and modern database-driven systems. I enjoy building products that combine solid backend architecture with intuitive user experiences.
 
 ## 🚀 Featured Projects
 
@@ -27,6 +27,14 @@ Welcome to my portfolio! I'm a passionate full-stack developer building scalable
 - Role-based permissions and content workflows
 - Built for flexible digital publishing
 - [Repository](https://github.com/lethulukhele/contenthub)
+
+### 4. SocialConnect - Social Networking Platform
+*Java + Spring Boot + PostgreSQL + Thymeleaf*
+- Community-driven social networking experience
+- User profiles, friendships, and engagement features
+- Clean and modern interface for online interaction
+- Built for scalable social communities and collaboration
+- [Repository](https://github.com/lethulukhele/socialconnect)
 
 ---
 
